@@ -382,6 +382,8 @@ with tabs[0]:
                 continue
                 
             selection_df = event_df[event_df["Selection"] == selection]
+            event_url_candidates = event_df["Url"].dropna().unique()
+            event_url = event_url_candidates[0] if len(event_url_candidates) else None
             
             row = {
                 "Sport": sport,
@@ -390,6 +392,7 @@ with tabs[0]:
                 "Selection": selection,
                 "Is_Live": selection_df["Is_Live"].iloc[0] if len(selection_df) > 0 else False
             }
+            row["Verification_Link"] = event_url
             
             # Add odds from each sportsbook
             odds_values = []
@@ -446,7 +449,7 @@ with tabs[0]:
         stat_cols = ["Best_Odds", "Worst_Odds", "Spread", "Books", "Avg_Implied_Prob"]
         
         # Reorder: base info, sportsbook odds, stats
-        display_df = display_df[base_cols + sportsbooks + stat_cols]
+        display_df = display_df[base_cols + sportsbooks + stat_cols + ["Verification_Link"]]
         
         # Format and display
         st.dataframe(
@@ -457,6 +460,9 @@ with tabs[0]:
             .format({"Game_Date": lambda t: t.strftime("%m/%d %H:%M") if pd.notnull(t) else ""}) 
             .format({"Is_Live": lambda x: "🔴 LIVE" if x else "📅"})
             .background_gradient(subset=["Spread"], cmap="RdYlGn", vmin=0, vmax=100),
+            column_config={
+                "Verification_Link": st.column_config.LinkColumn("Link", display_text="Open")
+            },
             use_container_width=True,
             height=800
         )
@@ -528,44 +534,6 @@ for i, source in enumerate(sources):
                     
                 with c2:
                     st.bar_chart(vig_stats_df.set_index("Sport")["Avg Vig"])
-            
-            # Links - Display actual URLs from the data
-            st.write("### Verification Links")
-            
-            event_urls = source_df[["Event", "Url"]].drop_duplicates()
-            
-            if not event_urls.empty:
-                valid_urls = event_urls[event_urls["Url"].notna() & (event_urls["Url"] != "")]
-                valid_urls = valid_urls.sort_values("Event")
-                
-                if not valid_urls.empty:
-                    ensure_verification_link_styles()
-                    st.write(f"Found {len(valid_urls)} verification links:")
-                    
-                    max_columns = min(4, len(valid_urls))
-                    if max_columns > 1:
-                        slider_key = f"verification-cols-{''.join(ch.lower() if ch.isalnum() else '-' for ch in source)}"
-                        columns_per_row = st.slider(
-                            "Links per row",
-                            min_value=1,
-                            max_value=max_columns,
-                            value=max_columns,
-                            key=slider_key,
-                            help="Reduce the number of columns if the grid feels cramped on smaller screens.",
-                        )
-                    else:
-                        columns_per_row = 1
-                    
-                    for start in range(0, len(valid_urls), columns_per_row):
-                        row_links = valid_urls.iloc[start:start + columns_per_row]
-                        row_cols = st.columns(len(row_links))
-                        for col, (_, link_row) in zip(row_cols, row_links.iterrows()):
-                            with col:
-                                render_verification_link(link_row["Event"], link_row["Url"])
-                else:
-                    st.info("No direct links available for events in this source.")
-            else:
-                st.info("No events found for this source.")
             
             # --- Detailed Odds Section ---
             st.subheader("Detailed Odds")
