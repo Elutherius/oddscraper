@@ -1,0 +1,43 @@
+# Polymarket raw CLOB snapshots (regenerated on demand)
+data/raw/clob/prices_batches/
+
+# Run manifests + logs get regenerated every execution
+data/run/
+logs/
+
+# Python caches / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Packaging / build artifacts
+pm_universe.egg-info/
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Coverage / reports
+.coverage
+.coverage.*
+coverage/
+htmlcov/
+
+# Misc runtime noise
+*.log
+
+# Local helper repos
+Scrape_push/
