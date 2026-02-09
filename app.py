@@ -1,7 +1,6 @@
 import json
 import os
 from datetime import datetime
-from html import escape
 from pathlib import Path
 from typing import Optional
 
@@ -182,68 +181,6 @@ if df is None:
     st.error(f"Data file `{DATA_FILE}` not found. Please run the scraping pipeline first.")
     st.stop()
 
-LINK_BUTTON_SUPPORTED = hasattr(st, "link_button")
-VERIFICATION_CSS_INJECTED = False
-
-def ensure_verification_link_styles():
-    """Inject CSS for verification links once per run."""
-    global VERIFICATION_CSS_INJECTED
-    if VERIFICATION_CSS_INJECTED:
-        return
-    st.markdown(
-        """
-        <style>
-            div.stButton > button {
-                width: 100%;
-                white-space: nowrap;
-                overflow: hidden;
-                text-overflow: ellipsis;
-            }
-            a.verification-link-fallback {
-                display: inline-flex;
-                width: 100%;
-                align-items: center;
-                justify-content: center;
-                padding: 0.5rem 0.75rem;
-                border-radius: 0.5rem;
-                border: 1px solid #1c6dd0;
-                background-color: #1c6dd0;
-                color: #fff !important;
-                text-decoration: none;
-                white-space: nowrap;
-                overflow: hidden;
-                text-overflow: ellipsis;
-                transition: background-color 0.15s ease;
-            }
-            a.verification-link-fallback:hover {
-                background-color: #1557a0;
-            }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
-    VERIFICATION_CSS_INJECTED = True
-
-def render_verification_link(label, url):
-    """Render a verification link with graceful fallback for older Streamlit versions."""
-    display_label = str(label).strip() if pd.notna(label) else "View Event"
-    display_label = display_label or "View Event"
-
-    if LINK_BUTTON_SUPPORTED:
-        st.link_button(
-            label=display_label,
-            url=url,
-            help=f"Go to {display_label}",
-            use_container_width=True,
-        )
-    else:
-        safe_label = escape(display_label)
-        safe_url = escape(str(url), quote=True)
-        st.markdown(
-            f'<a class="verification-link-fallback" href="{safe_url}" target="_blank" rel="noopener noreferrer">{safe_label}</a>',
-            unsafe_allow_html=True,
-        )
-
 # --- Analytics Section ---
 st.header("📊 Market Analytics")
 
@@ -382,8 +319,6 @@ with tabs[0]:
                 continue
                 
             selection_df = event_df[event_df["Selection"] == selection]
-            event_url_candidates = event_df["Url"].dropna().unique()
-            event_url = event_url_candidates[0] if len(event_url_candidates) else None
             
             row = {
                 "Sport": sport,
@@ -392,7 +327,6 @@ with tabs[0]:
                 "Selection": selection,
                 "Is_Live": selection_df["Is_Live"].iloc[0] if len(selection_df) > 0 else False
             }
-            row["Verification_Link"] = event_url
             
             # Add odds from each sportsbook
             odds_values = []
@@ -449,7 +383,7 @@ with tabs[0]:
         stat_cols = ["Best_Odds", "Worst_Odds", "Spread", "Books", "Avg_Implied_Prob"]
         
         # Reorder: base info, sportsbook odds, stats
-        display_df = display_df[base_cols + sportsbooks + stat_cols + ["Verification_Link"]]
+        display_df = display_df[base_cols + sportsbooks + stat_cols]
         
         # Format and display
         st.dataframe(
@@ -460,9 +394,6 @@ with tabs[0]:
             .format({"Game_Date": lambda t: t.strftime("%m/%d %H:%M") if pd.notnull(t) else ""}) 
             .format({"Is_Live": lambda x: "🔴 LIVE" if x else "📅"})
             .background_gradient(subset=["Spread"], cmap="RdYlGn", vmin=0, vmax=100),
-            column_config={
-                "Verification_Link": st.column_config.LinkColumn("Link", display_text="Open")
-            },
             use_container_width=True,
             height=800
         )
