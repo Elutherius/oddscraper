@@ -556,7 +556,7 @@ for i, source in enumerate(sources):
             )
             
             # Select and reorder columns
-            display_cols = ["Sport", "Event", "Game_Date", "Selection", "Moneyline", "Implied_Prob", "Vig", "Url", "Fetched_At", "Is_Live"]
+            display_cols = ["Sport", "Event", "Game_Date", "Selection", "Moneyline", "Implied_Prob", "Vig", "Fetched_At", "Is_Live"]
             source_display = source_df[display_cols].copy()
             
             # Sort by Game_Date
@@ -571,10 +571,7 @@ for i, source in enumerate(sources):
                 .format({"Game_Date": lambda t: t.strftime("%m/%d %H:%M") if pd.notnull(t) else ""})
                 .format({"Fetched_At": lambda t: t.strftime("%m/%d %H:%M:%S") if pd.notnull(t) else ""})
                 .format({"Is_Live": lambda x: "🔴 LIVE" if x else "📅"}),
-                column_config={
-                    "Url": st.column_config.LinkColumn("Link", display_text="Open")
-                },
-                use_container_width=True,
-                height=800
-            )
+            use_container_width=True,
+            height=800
+        )
 
