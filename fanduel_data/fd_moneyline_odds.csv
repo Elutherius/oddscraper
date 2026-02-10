@@ -1,0 +1,23 @@
+Sport,Game_Date,Event,BetType,HomeTeam,HomeOdds,AwayTeam,AwayOdds,Is_Live,Fetched_At,Url
+NBA,2026-02-12T03:10:00.000Z,San Antonio Spurs @ Golden State Warriors,Moneyline,Golden State Warriors,172,San Antonio Spurs,-205,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244749
+NBA,2026-02-12T00:40:00.000Z,New York Knicks @ Philadelphia 76ers,Moneyline,Philadelphia 76ers,108,New York Knicks,-126,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244714
+NBA,2026-02-12T02:10:00.000Z,Oklahoma City Thunder @ Phoenix Suns,Moneyline,Phoenix Suns,205,Oklahoma City Thunder,-250,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244746
+NBA,2026-02-12T00:40:00.000Z,Detroit Pistons @ Toronto Raptors,Moneyline,Toronto Raptors,104,Detroit Pistons,-122,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244720
+NBA,2026-02-11T00:40:00.000Z,Indiana Pacers @ New York Knicks,Moneyline,New York Knicks,-650,Indiana Pacers,480,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35237412
+NBA,2026-02-11T02:10:00.000Z,Dallas Mavericks @ Phoenix Suns,Moneyline,Phoenix Suns,-320,Dallas Mavericks,250,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35237409
+NBA,2026-02-12T00:10:00.000Z,Milwaukee Bucks @ Orlando Magic,Moneyline,Orlando Magic,-450,Milwaukee Bucks,350,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244676
+NBA,2026-02-11T03:13:00.000Z,San Antonio Spurs @ Los Angeles Lakers,Moneyline,Los Angeles Lakers,215,San Antonio Spurs,-260,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35237410
+NBA,2026-02-11T01:10:00.000Z,Los Angeles Clippers @ Houston Rockets,Moneyline,Houston Rockets,-290,Los Angeles Clippers,235,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35237411
+NBA,2026-02-15T22:00:00.000Z,USA Stars At USA Stripes,Moneyline,USA Stripes,-138,USA Stars,108,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225866
+NBA,2026-02-15T22:35:00.000Z,USA Stars At World,Moneyline,World,-146,USA Stars,114,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225867
+NBA,2026-02-15T23:10:00.000Z,USA Stripes At World,Moneyline,World,-108,USA Stripes,-118,False,2026-02-10T06:55:51.297920,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225868
+NHL,2026-02-12T20:10:50.000Z,USA @ Latvia,Moneyline,Latvia,1000,USA,-2100,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195058
+NHL,2026-02-12T20:10:51.000Z,Denmark @ Germany,Moneyline,Germany,-245,Denmark,195,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195076
+NHL,2026-02-12T15:40:45.000Z,Canada @ Czechia,Moneyline,Czechia,430,Canada,-600,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195077
+NHL,2026-02-12T11:10:31.000Z,France @ Switzerland,Moneyline,Switzerland,-1200,France,720,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195086
+NHL,2026-02-11T20:10:36.000Z,Italy @ Sweden,Moneyline,Sweden,-10000,Italy,3000,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195008
+NHL,2026-02-11T15:40:43.000Z,Finland @ Slovakia,Moneyline,Slovakia,285,Finland,-360,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35183964
+NHL,2026-02-10T15:40:55.000Z,Germany (W) @ Italy (W),Moneyline,Italy (W),138,Germany (W),-166,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35232647
+NHL,2026-02-10T11:10:56.000Z,Sweden (W) @ Japan (W),Moneyline,Japan (W),800,Sweden (W),-1800,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35232632
+NHL,2026-02-10T20:10:59.000Z,Switzerland (W) @ Finland (W),Moneyline,Finland (W),-240,Switzerland (W),195,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35232653
+NHL,2026-02-10T19:10:19.000Z,USA (W) @ Canada (W),Moneyline,Canada (W),134,USA (W),-162,False,2026-02-10T06:55:59.026039,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35232649

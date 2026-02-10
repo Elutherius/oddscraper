@@ -1,0 +1,10 @@
+Sport,Game_Date,Event,BetType,HomeTeam,HomeOdds,AwayTeam,AwayOdds,Is_Live,Fetched_At,Url
+NBA,2026-02-10T06:56:07,Indiana Pacers vs New York Knicks,Moneyline,New York Knicks,-625,Indiana Pacers,450,False,2026-02-10T06:56:07,
+NBA,2026-02-10T06:56:07,Los Angeles Clippers vs Houston Rockets,Moneyline,Houston Rockets,-275,Los Angeles Clippers,220,False,2026-02-10T06:56:07,
+NBA,2026-02-10T06:56:08,Dallas Mavericks vs Phoenix Suns,Moneyline,Phoenix Suns,-286,Dallas Mavericks,240,False,2026-02-10T06:56:08,
+NBA,2026-02-10T06:56:08,San Antonio Spurs vs Los Angeles Lakers,Moneyline,Los Angeles Lakers,250,San Antonio Spurs,-323,False,2026-02-10T06:56:08,
+NBA,2026-02-10T06:56:08,Milwaukee Bucks vs Orlando Magic,Moneyline,Orlando Magic,-450,Milwaukee Bucks,350,False,2026-02-10T06:56:08,
+NBA,2026-02-10T06:56:09,Detroit Pistons vs Toronto Raptors,Moneyline,Toronto Raptors,100,Detroit Pistons,-120,False,2026-02-10T06:56:09,
+NBA,2026-02-10T06:56:09,New York Knicks vs Philadelphia 76ers,Moneyline,Philadelphia 76ers,110,New York Knicks,-130,False,2026-02-10T06:56:09,
+NBA,2026-02-10T06:56:09,Oklahoma City Thunder vs Phoenix Suns,Moneyline,Phoenix Suns,190,Oklahoma City Thunder,-240,False,2026-02-10T06:56:09,
+NBA,2026-02-10T06:56:09,San Antonio Spurs vs Golden State Warriors,Moneyline,Golden State Warriors,165,San Antonio Spurs,-200,False,2026-02-10T06:56:09,
