@@ -1,0 +1,7 @@
+Sport,Game_Date,Event,BetType,Is_Live,Fetched_At,Url,Source,Selection,Moneyline
+NBA,2026-02-10 22:06:00+00:00,DAL vs LAL,Moneyline,False,2026-02-12 20:04:24.817306+00:00,https://kalshi.com/markets/KXNBAGAME-26FEB12DALLAL,Kalshi,DAL,233
+NBA,2026-02-10 22:06:00+00:00,DAL vs LAL,Moneyline,False,2026-02-12 20:04:24.817306+00:00,https://kalshi.com/markets/KXNBAGAME-26FEB12DALLAL,Kalshi,LAL,-233
+NBA,2026-02-10 22:06:00+00:00,MIL vs OKC,Moneyline,False,2026-02-12 20:04:24.817306+00:00,https://kalshi.com/markets/KXNBAGAME-26FEB12MILOKC,Kalshi,MIL,400
+NBA,2026-02-10 22:06:00+00:00,MIL vs OKC,Moneyline,False,2026-02-12 20:04:24.817306+00:00,https://kalshi.com/markets/KXNBAGAME-26FEB12MILOKC,Kalshi,OKC,-426
+NBA,2026-02-10 22:06:00+00:00,POR vs UTA,Moneyline,False,2026-02-12 20:04:24.817306+00:00,https://kalshi.com/markets/KXNBAGAME-26FEB12PORUTA,Kalshi,POR,-223
+NBA,2026-02-10 22:06:00+00:00,POR vs UTA,Moneyline,False,2026-02-12 20:04:24.817306+00:00,https://kalshi.com/markets/KXNBAGAME-26FEB12PORUTA,Kalshi,UTA,212

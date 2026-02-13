@@ -1,0 +1,7 @@
+Sport,Game_Date,Event,BetType,Is_Live,Fetched_At,Url,Source,Selection,Moneyline
+NBA,2026-02-12 21:10:00+00:00,DAL vs LAL,Moneyline,False,,,PointsBet,DAL,210
+NBA,2026-02-12 21:10:00+00:00,DAL vs LAL,Moneyline,False,,,PointsBet,LAL,-260
+NBA,2026-02-12 21:10:00+00:00,MIL vs OKC,Moneyline,False,,,PointsBet,MIL,400
+NBA,2026-02-12 21:10:00+00:00,MIL vs OKC,Moneyline,False,,,PointsBet,OKC,-625
+NBA,2026-02-12 21:10:00+00:00,POR vs UTA,Moneyline,False,,,PointsBet,POR,-240
+NBA,2026-02-12 21:10:00+00:00,POR vs UTA,Moneyline,False,,,PointsBet,UTA,190

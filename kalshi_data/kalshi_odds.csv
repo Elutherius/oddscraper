@@ -1,16 +1,4 @@
 Sport,Game_Date,Event,BetType,HomeTeam,HomeOdds,AwayTeam,AwayOdds,Is_Live,Fetched_At,Url
-NBA,2026-02-10T22:06:00Z,Dallas vs Los Angeles L,Moneyline,Los Angeles L,-257,Dallas,223,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB12DALLAL
-NBA,2026-02-10T22:06:00Z,Portland vs Utah,Moneyline,Utah,245,Portland,-285,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB12PORUTA
-NBA,2026-02-10T22:06:00Z,Milwaukee vs Oklahoma City,Moneyline,Oklahoma City,-567,Milwaukee,456,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB12MILOKC
-NBA,2026-02-09T22:06:00Z,Memphis vs Denver,Moneyline,Denver,-614,Memphis,567,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11MEMDEN
-NBA,2026-02-09T22:06:00Z,San Antonio vs Golden State,Moneyline,Golden State,194,San Antonio,-203,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11SASGSW
-NBA,2026-02-09T22:06:00Z,Oklahoma City vs Phoenix,Moneyline,Phoenix,376,Oklahoma City,-400,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11OKCPHX
-NBA,2026-02-09T22:06:00Z,Sacramento vs Utah,Moneyline,Utah,-376,Sacramento,376,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11SACUTA
-NBA,2026-02-09T22:06:00Z,Portland vs Minnesota,Moneyline,Minnesota,-614,Portland,567,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11PORMIN
-NBA,2026-02-09T22:06:00Z,Los Angeles C vs Houston,Moneyline,Houston,-317,Los Angeles C,300,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11LACHOU
-NBA,2026-02-09T22:06:00Z,New York vs Philadelphia,Moneyline,Philadelphia,4900,New York,-9900,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11NYKPHI
-NBA,2026-02-09T22:06:00Z,Miami vs New Orleans,Moneyline,New Orleans,178,Miami,-186,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11MIANOP
-NBA,2026-02-09T22:06:00Z,Indiana vs Brooklyn,Moneyline,Brooklyn,-285,Indiana,257,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11INDBKN
-NBA,2026-02-09T22:06:00Z,Detroit vs Toronto,Moneyline,Toronto,4900,Detroit,-4900,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11DETTOR
-NBA,2026-02-09T19:06:00Z,Atlanta vs Charlotte,Moneyline,Charlotte,-3233,Atlanta,2400,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11ATLCHA
-NBA,2026-02-09T19:06:00Z,Milwaukee vs Orlando,Moneyline,Orlando,223,Milwaukee,-233,False,2026-02-11T21:27:04.999630,https://kalshi.com/markets/KXNBAGAME-26FEB11MILORL
+NBA,2026-02-10T22:06:00Z,Dallas vs Los Angeles L,Moneyline,Los Angeles L,-233,Dallas,233,False,2026-02-12T20:04:24.817306,https://kalshi.com/markets/KXNBAGAME-26FEB12DALLAL
+NBA,2026-02-10T22:06:00Z,Portland vs Utah,Moneyline,Utah,212,Portland,-223,False,2026-02-12T20:04:24.817306,https://kalshi.com/markets/KXNBAGAME-26FEB12PORUTA
+NBA,2026-02-10T22:06:00Z,Milwaukee vs Oklahoma City,Moneyline,Oklahoma City,-426,Milwaukee,400,False,2026-02-12T20:04:24.817306,https://kalshi.com/markets/KXNBAGAME-26FEB12MILOKC
