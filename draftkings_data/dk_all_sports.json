@@ -1,0 +1,14 @@
+{
+  "NBA": {
+    "error": "Timeout/NoTable"
+  },
+  "NHL": {
+    "error": "Timeout/NoTable"
+  },
+  "NFL": {
+    "status": "empty"
+  },
+  "NCAAB_Mens": {
+    "status": "empty"
+  }
+}

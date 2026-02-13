@@ -1,0 +1,57 @@
+Sport,Game_Date,Event,BetType,Is_Live,Fetched_At,Url,Source,Selection,Moneyline
+NBA,2026-02-12 00:10:00+00:00,ATL vs CHA,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244663,FanDuel,ATL,1500
+NBA,2026-02-12 00:10:00+00:00,ATL vs CHA,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244663,FanDuel,CHA,-7000
+NBA,2026-02-12 00:11:00+00:00,CLE vs WAS,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244682,FanDuel,CLE,-100000
+NBA,2026-02-12 00:11:00+00:00,CLE vs WAS,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244682,FanDuel,WAS,-100000
+NBA,2026-02-12 00:11:00+00:00,MIL vs ORL,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244676,FanDuel,MIL,-340
+NBA,2026-02-12 00:11:00+00:00,MIL vs ORL,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244676,FanDuel,ORL,250
+NBA,2026-02-12 00:41:00+00:00,BKN vs IND,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244722,FanDuel,BKN,-370
+NBA,2026-02-12 00:41:00+00:00,BKN vs IND,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244722,FanDuel,IND,265
+NBA,2026-02-12 00:42:00+00:00,BOS vs CHI,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244725,FanDuel,BOS,-100000
+NBA,2026-02-12 00:42:00+00:00,BOS vs CHI,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244725,FanDuel,CHI,10000
+NBA,2026-02-12 00:42:00+00:00,NYK vs PHI,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244714,FanDuel,NYK,-50000
+NBA,2026-02-12 00:42:00+00:00,NYK vs PHI,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244714,FanDuel,PHI,3500
+NBA,2026-02-12 00:43:00+00:00,DET vs TOR,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244720,FanDuel,DET,-20000
+NBA,2026-02-12 00:43:00+00:00,DET vs TOR,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244720,FanDuel,TOR,2200
+NBA,2026-02-12 01:11:00+00:00,MIA vs NOP,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244733,FanDuel,MIA,-172
+NBA,2026-02-12 01:11:00+00:00,MIA vs NOP,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244733,FanDuel,NOP,134
+NBA,2026-02-12 01:12:00+00:00,HOU vs LAC,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244727,FanDuel,HOU,-620
+NBA,2026-02-12 01:12:00+00:00,HOU vs LAC,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244727,FanDuel,LAC,400
+NBA,2026-02-12 01:14:00+00:00,MIN vs POR,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244734,FanDuel,MIN,-1000
+NBA,2026-02-12 01:14:00+00:00,MIN vs POR,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244734,FanDuel,POR,560
+NBA,2026-02-12 02:11:00+00:00,OKC vs PHX,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244746,FanDuel,OKC,-520
+NBA,2026-02-12 02:11:00+00:00,OKC vs PHX,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244746,FanDuel,PHX,350
+NBA,2026-02-12 02:12:00+00:00,DEN vs MEM,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244747,FanDuel,DEN,-670
+NBA,2026-02-12 02:12:00+00:00,DEN vs MEM,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244747,FanDuel,MEM,430
+NBA,2026-02-12 02:12:00+00:00,SAC vs UTA,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244748,FanDuel,SAC,285
+NBA,2026-02-12 02:12:00+00:00,SAC vs UTA,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244748,FanDuel,UTA,-400
+NBA,2026-02-12 03:10:00+00:00,GSW vs SAS,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244749,FanDuel,GSW,198
+NBA,2026-02-12 03:10:00+00:00,GSW vs SAS,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35244749,FanDuel,SAS,-240
+NHL,2026-02-12 11:10:31+00:00,FRANCE vs SWITZERLAND,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195086,FanDuel,FRANCE,810
+NHL,2026-02-12 11:10:31+00:00,FRANCE vs SWITZERLAND,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195086,FanDuel,SWITZERLAND,-1450
+NHL,2026-02-12 13:30:49+00:00,CANADA W vs FINLAND W,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248073,FanDuel,CANADA W,-4500
+NHL,2026-02-12 13:30:49+00:00,CANADA W vs FINLAND W,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248073,FanDuel,FINLAND W,1600
+NHL,2026-02-12 15:40:45+00:00,CANADA vs CZECHIA,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195077,FanDuel,CANADA,-610
+NHL,2026-02-12 15:40:45+00:00,CANADA vs CZECHIA,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195077,FanDuel,CZECHIA,440
+NHL,2026-02-12 20:10:50+00:00,LATVIA vs USA,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195058,FanDuel,LATVIA,1200
+NHL,2026-02-12 20:10:50+00:00,LATVIA vs USA,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195058,FanDuel,USA,-3000
+NHL,2026-02-12 20:10:51+00:00,DENMARK vs GERMANY,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195076,FanDuel,DENMARK,220
+NHL,2026-02-12 20:10:51+00:00,DENMARK vs GERMANY,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35195076,FanDuel,GERMANY,-275
+NBA,2026-02-13 00:40:00+00:00,MIL vs OKC,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247836,FanDuel,MIL,520
+NBA,2026-02-13 00:40:00+00:00,MIL vs OKC,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247836,FanDuel,OKC,-720
+NBA,2026-02-13 02:10:00+00:00,POR vs UTA,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247837,FanDuel,POR,-320
+NBA,2026-02-13 02:10:00+00:00,POR vs UTA,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247837,FanDuel,UTA,260
+NBA,2026-02-13 03:10:00+00:00,DAL vs LAL,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247838,FanDuel,DAL,198
+NBA,2026-02-13 03:10:00+00:00,DAL vs LAL,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247838,FanDuel,LAL,-240
+NHL,2026-02-13 11:10:00+00:00,ITALY vs SLOVAKIA,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248082,FanDuel,ITALY,1060
+NHL,2026-02-13 11:10:00+00:00,ITALY vs SLOVAKIA,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248082,FanDuel,SLOVAKIA,-2100
+NHL,2026-02-13 11:10:17+00:00,FINLAND vs SWEDEN,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248121,FanDuel,FINLAND,146
+NHL,2026-02-13 11:10:17+00:00,FINLAND vs SWEDEN,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248121,FanDuel,SWEDEN,-178
+NHL,2026-02-13 20:10:00+00:00,ITALY W vs USA W,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35253263,FanDuel,ITALY W,4000
+NHL,2026-02-13 20:10:00+00:00,ITALY W vs USA W,Moneyline,False,2026-02-11 21:26:36.394857+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35253263,FanDuel,USA W,-30000
+NBA,2026-02-15 22:00:00+00:00,DAL vs USA STRIPES,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225866,FanDuel,DAL,108
+NBA,2026-02-15 22:00:00+00:00,DAL vs USA STRIPES,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225866,FanDuel,USA STRIPES,-138
+NBA,2026-02-15 22:35:00+00:00,DAL vs WORLD,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225867,FanDuel,DAL,114
+NBA,2026-02-15 22:35:00+00:00,DAL vs WORLD,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225867,FanDuel,WORLD,-146
+NBA,2026-02-15 23:10:00+00:00,USA STRIPES vs WORLD,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225868,FanDuel,USA STRIPES,-118
+NBA,2026-02-15 23:10:00+00:00,USA STRIPES vs WORLD,Moneyline,False,2026-02-11 21:26:28.718876+00:00,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225868,FanDuel,WORLD,-108

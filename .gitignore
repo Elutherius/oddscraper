@@ -1,5 +1,5 @@
-# Polymarket raw CLOB snapshots (regenerated on demand)
-data/raw/clob/prices_batches/
+# Raw data folders (regenerated on demand)
+data/raw/
 
 # Run manifests + logs get regenerated every execution
 data/run/
