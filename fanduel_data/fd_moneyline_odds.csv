@@ -1,15 +1,7 @@
 Sport,Game_Date,Event,BetType,HomeTeam,HomeOdds,AwayTeam,AwayOdds,Is_Live,Fetched_At,Url
-NBA,2026-02-13T03:10:00.000Z,Dallas Mavericks @ Los Angeles Lakers,Moneyline,Los Angeles Lakers,-255,Dallas Mavericks,210,False,2026-02-12T20:03:50.655516,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247838
-NBA,2026-02-13T00:43:00.000Z,Milwaukee Bucks @ Oklahoma City Thunder,Moneyline,Oklahoma City Thunder,-670,Milwaukee Bucks,430,False,2026-02-12T20:03:50.655516,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247836
-NBA,2026-02-13T02:10:00.000Z,Portland Trail Blazers @ Utah Jazz,Moneyline,Utah Jazz,194,Portland Trail Blazers,-240,False,2026-02-12T20:03:50.655516,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35247837
-NBA,2026-02-15T22:00:00.000Z,USA Stars At USA Stripes,Moneyline,USA Stripes,-138,USA Stars,108,False,2026-02-12T20:03:50.655516,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225866
-NBA,2026-02-15T22:35:00.000Z,USA Stars At World,Moneyline,World,-146,USA Stars,114,False,2026-02-12T20:03:50.655516,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225867
-NBA,2026-02-15T23:10:00.000Z,USA Stripes At World,Moneyline,World,-108,USA Stripes,-118,False,2026-02-12T20:03:50.655516,https://sportsbook.fanduel.com/navigation/nba?tab=upcoming&eventId=35225868
-NHL,2026-02-13T20:10:59.000Z,Switzerland @ Canada,Moneyline,Canada,-610,Switzerland,440,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248122
-NHL,2026-02-13T11:10:17.000Z,Sweden @ Finland,Moneyline,Finland,152,Sweden,-184,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248121
-NHL,2026-02-13T15:40:00.000Z,Czechia @ France,Moneyline,France,890,Czechia,-1700,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248083
-NHL,2026-02-13T11:11:00.000Z,Slovakia @ Italy,Moneyline,Italy,720,Slovakia,-1200,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35248082
-NHL,2026-02-14T20:10:18.000Z,Switzerland (W) @ Finland (W),Moneyline,Finland (W),-260,Switzerland (W),210,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35259595
-NHL,2026-02-13T15:40:44.000Z,Sweden (W) @ Czechia (W),Moneyline,Czechia (W),-146,Sweden (W),122,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35259504
-NHL,2026-02-13T20:10:00.000Z,Italy (W) @ USA (W),Moneyline,USA (W),-50000,Italy (W),5500,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35253263
-NHL,2026-02-14T15:40:23.000Z,Germany (W) @ Canada (W),Moneyline,Canada (W),-10000,Germany (W),2400,False,2026-02-12T20:03:57.542817,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35259519
+NHL,2026-02-17T15:40:50.000Z,Denmark @ Czechia,Moneyline,Czechia,-265,Denmark,215,False,2026-02-15T20:17:22.229461,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272492
+NHL,2026-02-17T20:10:44.000Z,Latvia @ Sweden,Moneyline,Sweden,-1050,Latvia,660,False,2026-02-15T20:17:22.230527,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272503
+NHL,2026-02-17T11:10:05.000Z,Italy @ Switzerland,Moneyline,Switzerland,-1800,Italy,920,False,2026-02-15T20:17:22.230527,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272522
+NHL,2026-02-17T11:10:11.000Z,France @ Germany,Moneyline,Germany,-820,France,550,False,2026-02-15T20:17:22.230527,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272514
+NHL,2026-02-16T20:10:00.000Z,Switzerland (W) @ Canada (W),Moneyline,Canada (W),-8000,Switzerland (W),2200,False,2026-02-15T20:17:22.230527,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35264022
+NHL,2026-02-16T15:40:22.000Z,Sweden (W) @ USA (W),Moneyline,USA (W),-4500,Sweden (W),1600,False,2026-02-15T20:17:22.230527,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35263715

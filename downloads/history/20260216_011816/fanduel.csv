@@ -1,0 +1,13 @@
+Sport,Game_Date,Event,BetType,Is_Live,Fetched_At,Url,Source,Selection,Moneyline
+NHL,2026-02-16 15:40:22+00:00,SWEDEN W vs USA W,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35263715,FanDuel,SWEDEN W,1600
+NHL,2026-02-16 15:40:22+00:00,SWEDEN W vs USA W,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35263715,FanDuel,USA W,-4500
+NHL,2026-02-16 20:10:00+00:00,CANADA W vs SWITZERLAND W,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35264022,FanDuel,CANADA W,-8000
+NHL,2026-02-16 20:10:00+00:00,CANADA W vs SWITZERLAND W,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35264022,FanDuel,SWITZERLAND W,2200
+NHL,2026-02-17 11:10:05+00:00,ITALY vs SWITZERLAND,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272522,FanDuel,ITALY,920
+NHL,2026-02-17 11:10:05+00:00,ITALY vs SWITZERLAND,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272522,FanDuel,SWITZERLAND,-1800
+NHL,2026-02-17 11:10:11+00:00,FRANCE vs GERMANY,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272514,FanDuel,FRANCE,550
+NHL,2026-02-17 11:10:11+00:00,FRANCE vs GERMANY,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272514,FanDuel,GERMANY,-820
+NHL,2026-02-17 15:40:50+00:00,CZECHIA vs DENMARK,Moneyline,False,2026-02-15 20:17:22.229461+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272492,FanDuel,CZECHIA,-265
+NHL,2026-02-17 15:40:50+00:00,CZECHIA vs DENMARK,Moneyline,False,2026-02-15 20:17:22.229461+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272492,FanDuel,DENMARK,215
+NHL,2026-02-17 20:10:44+00:00,LATVIA vs SWEDEN,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272503,FanDuel,LATVIA,660
+NHL,2026-02-17 20:10:44+00:00,LATVIA vs SWEDEN,Moneyline,False,2026-02-15 20:17:22.230527+00:00,https://sportsbook.fanduel.com/navigation/nhl?tab=upcoming&eventId=35272503,FanDuel,SWEDEN,-1050

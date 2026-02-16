@@ -1,4 +1,1 @@
 Sport,Game_Date,Event,BetType,HomeTeam,HomeOdds,AwayTeam,AwayOdds,Is_Live,Fetched_At,Url
-NBA,2026-02-12T21:10:00,Milwaukee Bucks vs Oklahoma City Thunder,Moneyline,Oklahoma City Thunder,-625,Milwaukee Bucks,400,False,2026-02-12T20:04:03,
-NBA,2026-02-12T21:10:00,Portland Trail Blazers vs Utah Jazz,Moneyline,Utah Jazz,190,Portland Trail Blazers,-240,False,2026-02-12T20:04:03,
-NBA,2026-02-12T21:10:00,Dallas Mavericks vs Los Angeles Lakers,Moneyline,Los Angeles Lakers,-260,Dallas Mavericks,210,False,2026-02-12T20:04:03,

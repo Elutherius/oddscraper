@@ -1,0 +1,10 @@
+{
+  "timestamp": "20260216_011816",
+  "pull_time_iso": "2026-02-16T01:18:16Z",
+  "files": {
+    "Consolidated": "consolidated_odds.csv",
+    "FanDuel": "fanduel.csv",
+    "Kalshi": "kalshi.csv",
+    "Polymarket": "polymarket.csv"
+  }
+}
